@@ -1,0 +1,31 @@
+
+
+.button{
+    font-family: serif;
+    color: black;
+    background:linear-gradient(135deg, #8FA582, #C4D0C6, #E3E9E0, #EAE9E7);
+    margin-top: 50px;
+    padding: 20px; 
+    box-shadow: 7px 7px 15px -2px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.button:hover{
+    background:linear-gradient(135deg, #8FA582, #C4D0C6, #E3E9E0, #EAE9E7);
+}
+
+.text{
+    padding: 50px;
+    display: none;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    margin-left: 20px;
+    text-align: justify;
+    border-radius: 10px;
+    font-size: large;
+}
+
